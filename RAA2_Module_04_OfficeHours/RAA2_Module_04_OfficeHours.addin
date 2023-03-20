@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA2_Module_04_OfficeHours</Text>
+    <Description>Some description for RAA2_Module_04_OfficeHours</Description>
+    <Assembly>RAA2_Module_04_OfficeHours.dll</Assembly>
+    <FullClassName>RAA2_Module_04_OfficeHours.Command</FullClassName>
+    <ClientId>d2168283-6e96-4a91-91e7-19527c9d7c3f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA2_Module_04_OfficeHours</Name>
+    <Assembly>RAA2_Module_04_OfficeHours.dll</Assembly>
+    <FullClassName>RAA2_Module_04_OfficeHours.App</FullClassName>
+    <ClientId>c963d121-7308-4d48-a3aa-e674a6b2de77</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
